@@ -1,0 +1,2 @@
+boilerplate-frontend-only
+=========================
