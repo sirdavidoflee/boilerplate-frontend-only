@@ -1,4 +1,4 @@
-var SS = {
+var SITE = {
     
 /* Globals Variables
 =============================================*/    
@@ -22,5 +22,5 @@ var SS = {
 
 
 $(function(){
-    SS.init();
+    SITE.init();
 });
